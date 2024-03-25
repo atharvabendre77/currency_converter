@@ -28,6 +28,6 @@ This is a simple currency converter web application built using JavaScript and a
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-Author - Atharva Bendre 
+Author - Atharva Bendre <br>
 Linkdin - www.linkedin.com/in/atharvabendre
 
